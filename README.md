@@ -1,4 +1,4 @@
-# my-first-lab
+# study-planner
 My first web application
 
 ## Target Users

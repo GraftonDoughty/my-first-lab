@@ -47,6 +47,7 @@ export default function RootLayout({
               <div className="flex items-center gap-4 sm:gap-8 text-sm font-medium">
                 <Link href="/" className="text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Home</Link>
                 <Link href="/tasks" className="text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Tasks</Link>
+                <Link href="/schedule" className="text-slate-600 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Schedule</Link>
                 <Link 
                   href="/tasks/new" 
                   className="bg-indigo-600 text-white px-4 py-2 rounded-xl hover:bg-indigo-500 transition-all hover:shadow-lg hover:shadow-indigo-500/20 active:scale-95"
